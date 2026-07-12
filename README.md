@@ -31,5 +31,5 @@ I have decided to gain knowledge on computer vision.
 
 ## 7.Face and Object detection
 -Haar cascades
-
+                            ## Completed
 
